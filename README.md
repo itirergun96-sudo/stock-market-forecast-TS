@@ -176,4 +176,12 @@ XGBoost en yüksek doğruluğu sağladığı için nihai model olarak seçilmiş
 
 Eğitilmiş model şu dosya olarak kaydedilmiştir:energy_forecast_xgboost.pkl
 
+## Live Demo / Canlı Uygulama
+
+Bu proje için geliştirilmiş Streamlit uygulaması HuggingFace üzerinde deploy edilmiştir.  
+Gerçek zamanlı olarak model tahminlerini deneyimlemek için aşağıdaki linke tıklayabilirsiniz:
+
+👉 [Live Demo on HuggingFace Spaces](https://huggingface.co/spaces/abmias/stock-market-forecasting)
+
+
 
